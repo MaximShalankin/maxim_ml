@@ -1,7 +1,7 @@
 # Некоторые способы оценки качества данных
 
 *В telegram есть еще много чего интересного https://t.me/+HdRZec7VJEVlNmVi*
-abc
+
 
 ## Population stability Index
 Как рассчитывается PSI? Разберем шаг за шагом

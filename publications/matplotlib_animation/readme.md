@@ -2,8 +2,7 @@
 ![Project Screenshot](two_models_comparison.png)
 
 ### matplotlib animation
-<video src="video_matplotlib.mp4" controls width="515"></video>
+[Watch the video](video_matplotlib.mp4)
 
 
------
-<video src="video_matplotlib.mp4" controls width="515"></video>
+[Watch the video](https://github.com/MaximShalankin/maxim_ml/blob/main/publications/matplotlib_animation/video_matplotlib.mp4)
